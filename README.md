@@ -1,10 +1,8 @@
 # ecole-42
 Projects and Developments
-# 🎓 École 42 – Projetos
+# 🎓 École 42 – Projects
 
-Aqui estão todos os meus projetos realizados na [42 Luxembourg](https://42luxembourg.lu).
-
-## 🚀 Projetos do Common Core
+Here are all my projects carried out at [42 Luxembourg](https://42luxembourg.lu).
 
 ## 🚀 Common Core Projects
 
