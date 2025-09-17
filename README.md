@@ -9,7 +9,7 @@ Aqui estão todos os meus projetos realizados na [42 Luxembourg](https://42luxem
 ## 🚀 Common Core Projects
 
 - [Libft](https://github.com/LuisFilipePires/commom-core-all-projects/tree/main/libft) – Reimplementation of the C standard library functions.  
-- [ft_printf](https://github.com/yourusername/ft_printf) – Custom implementation of the `printf` function.  
+- [ft_printf](https://github.com/LuisFilipePires/commom-core-all-projects/tree/main/libftprintf) – Custom implementation of the `printf` function.  
 - [get_next_line](https://github.com/yourusername/get_next_line) – Function to read a file line by line.  
 - [push_swap](https://github.com/yourusername/push_swap) – Sorting algorithms with stacks and limited instructions.  
 - [philosophers](https://github.com/yourusername/philosophers) – Concurrency with threads and processes (dining philosophers problem).  
