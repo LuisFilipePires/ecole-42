@@ -8,12 +8,12 @@ Here are all my projects carried out at [42 Luxembourg](https://42luxembourg.lu)
 
 - [Libft](https://github.com/LuisFilipePires/commom-core-all-projects/tree/main/libft) – Reimplementation of the C standard library functions.  
 - [ft_printf](https://github.com/LuisFilipePires/commom-core-all-projects/tree/main/libftprintf) – Custom implementation of the `printf` function.  
-- [get_next_line](https://github.com/yourusername/get_next_line) – Function to read a file line by line.  
-- [push_swap](https://github.com/yourusername/push_swap) – Sorting algorithms with stacks and limited instructions.  
-- [philosophers](https://github.com/yourusername/philosophers) – Concurrency with threads and processes (dining philosophers problem).  
-- [minishell](https://github.com/yourusername/minishell) – A simplified Unix shell implementation.  
-- [cub3d](https://github.com/yourusername/cub3d) – A basic 3D graphics engine using raycasting.  
-- [CPP Modules 00–04](https://github.com/yourusername/cpp-modules) – Object-Oriented Programming in C++ (inheritance, polymorphism, canonical form).  
+- [get_next_line](https://github.com/LuisFilipePires/commom-core-all-projects/tree/main/get_next_line) – Function to read a file line by line.  
+- [push_swap](https://github.com/LuisFilipePires/commom-core-all-projects/tree/main/push_swap) – Sorting algorithms with stacks and limited instructions.  
+- [philosophers](https://github.com/LuisFilipePires/commom-core-all-projects/tree/main/philosophers) – Concurrency with threads and processes (dining philosophers problem).  
+- [minishell](https://github.com/LuisFilipePires/commom-core-all-projects/tree/main/minishell) – A simplified Unix shell implementation.  
+- [cub3d](https://github.com/LuisFilipePires/commom-core-all-projects/tree/main/cub_3D) – A basic 3D graphics engine using raycasting.  
+- [CPP Modules 00–04](https://github.com/LuisFilipePires/commom-core-all-projects/tree/main/cpp00%20to%20cpp04) – Object-Oriented Programming in C++ (inheritance, polymorphism, canonical form).  
 - [Webserv](https://github.com/yourusername/webserv) – HTTP server with CGI support in C++.  
 - [Ft_transcendence](https://github.com/yourusername/ft_transcendence) – Fullstack web application with authentication, chat and Pong game.  
 
