@@ -33,8 +33,6 @@ Here are all my projects carried out at [42 Luxembourg](https://42luxembourg.lu)
  <p align="left">
   <a href="https://github.com/LuisFilipePires">
     <img src="https://github.com/LuisFilipePires/badges/blob/main/greenleft.png" alt="Back to ecole-42" width="80"/> 
-   <div style="display: flex; height: 200px; align-items: center; justify-content: center;">
-  <p>Back to main</p>
-</div>
+   style="display: flex; height: 200px; align-items: center; justify-content: center;"><p>Back to main</p>
   </a>
 </p>
